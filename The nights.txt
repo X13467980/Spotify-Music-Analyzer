@@ -1,0 +1,56 @@
+曲名: The Nights
+アーティスト: Avicii
+曲のジャンル: なし
+アーティストのジャンル: dance pop, edm, pop, pop dance
+アルバム: The Days / Nights
+リリース年: 2014-01-01
+再生時間: 176秒
+人気度: 81
+アルバムの種類: album
+コピーライト: © 2014 Avicii Music AB, under exclusive license to Universal Music AB
+外部URL: https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc
+プレビューURL: None
+対応市場: AR, AU, AT, BE, BO, BR, BG, CA, CL, CO, CR, CY, CZ, DK, DO, DE, EC, EE, SV, FI, FR, GR, GT, HN, HK, HU, IS, IE, IT, LV, LT, LU, MY, MT, MX, NL, NZ, NI, NO, PA, PY, PE, PH, PL, PT, SG, SK, ES, SE, CH, TW, TR, UY, US, GB, AD, LI, MC, ID, JP, TH, VN, RO, IL, ZA, SA, AE, BH, QA, OM, KW, EG, MA, DZ, TN, LB, JO, PS, IN, BY, KZ, MD, UA, AL, BA, HR, ME, MK, RS, SI, KR, BD, PK, LK, GH, KE, NG, TZ, UG, AG, AM, BS, BB, BZ, BT, BW, BF, CV, CW, DM, FJ, GM, GE, GD, GW, GY, HT, JM, KI, LS, LR, MW, MV, ML, MH, FM, NA, NR, NE, PW, PG, WS, SM, ST, SN, SC, SL, SB, KN, LC, VC, SR, TL, TO, TT, TV, VU, AZ, BN, BI, KH, CM, TD, KM, GQ, SZ, GA, GN, KG, LA, MO, MR, MN, NP, RW, TG, UZ, ZW, BJ, MG, MU, MZ, AO, CI, DJ, ZM, CD, CG, IQ, LY, TJ, VE, ET, XK
+
+-- 曲の特徴量 --
+danceability: 0.527
+energy: 0.835
+key: 6
+loudness: -5.298
+mode: 1
+speechiness: 0.0433
+acousticness: 0.0166
+instrumentalness: 0
+liveness: 0.249
+valence: 0.654
+tempo: 125.983
+type: audio_features
+id: 0ct6r3EGTcMLPtrXHDvVjc
+uri: spotify:track:0ct6r3EGTcMLPtrXHDvVjc
+track_href: https://api.spotify.com/v1/tracks/0ct6r3EGTcMLPtrXHDvVjc
+analysis_url: https://api.spotify.com/v1/audio-analysis/0ct6r3EGTcMLPtrXHDvVjc
+duration_ms: 176658
+time_signature: 4
+
+-- 歌詞 --
+歌詞が見つかりませんでした。
+
+-- アーティストの詳細情報 --
+アーティスト名: Avicii
+フォロワー数: 22810338
+人気度: 80
+ジャンル: dance pop, edm, pop, pop dance
+外部URL: https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5ebae07171f989fb39736674113
+
+-- アーティストの人気曲 --
+1. Wake Me Up - True
+2. The Nights - The Days / Nights
+3. Waiting For Love - Stories
+4. Levels - Radio Edit - Levels
+5. Without You (feat. Sandro Cavazza) - AVĪCI (01)
+6. Hey Brother - True
+7. Addicted To You - True
+8. I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit - I Could Be The One [Avicii vs Nicky Romero]
+9. SOS (feat. Aloe Blacc) - TIM
+10. Lonely Together (feat. Rita Ora) - AVĪCI (01)

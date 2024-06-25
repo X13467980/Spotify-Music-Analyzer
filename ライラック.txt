@@ -1,0 +1,56 @@
+曲名: ライラック
+アーティスト: Mrs. GREEN APPLE
+曲のジャンル: なし
+アーティストのジャンル: anime rock, j-pop, j-rock
+アルバム: ライラック
+リリース年: 2024-04-11
+再生時間: 288秒
+人気度: 76
+アルバムの種類: single
+コピーライト: © 2024 UNIVERSAL MUSIC LLC
+外部URL: https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO
+プレビューURL: None
+対応市場: AR, AU, AT, BE, BO, BR, BG, CA, CL, CO, CR, CY, CZ, DK, DO, DE, EC, EE, SV, FI, FR, GR, GT, HN, HK, HU, IS, IE, IT, LV, LT, LU, MY, MT, MX, NL, NZ, NI, NO, PA, PY, PE, PH, PL, PT, SG, SK, ES, SE, CH, TW, TR, UY, US, GB, AD, LI, MC, ID, JP, TH, VN, RO, IL, ZA, SA, AE, BH, QA, OM, KW, EG, MA, DZ, TN, LB, JO, PS, IN, KZ, MD, UA, AL, BA, HR, ME, MK, RS, SI, KR, BD, PK, LK, GH, KE, NG, TZ, UG, AG, AM, BS, BB, BZ, BT, BW, BF, CV, CW, DM, FJ, GM, GE, GD, GW, GY, HT, JM, KI, LS, LR, MW, MV, ML, MH, FM, NA, NR, NE, PW, PG, WS, SM, ST, SN, SC, SL, SB, KN, LC, VC, SR, TL, TO, TT, TV, VU, AZ, BN, BI, KH, CM, TD, KM, GQ, SZ, GA, GN, KG, LA, MO, MR, MN, NP, RW, TG, UZ, ZW, BJ, MG, MU, MZ, AO, CI, DJ, ZM, CD, CG, IQ, LY, TJ, VE, ET, XK
+
+-- 曲の特徴量 --
+danceability: 0.531
+energy: 0.794
+key: 10
+loudness: -4.363
+mode: 1
+speechiness: 0.0964
+acousticness: 0.0176
+instrumentalness: 0
+liveness: 0.082
+valence: 0.775
+tempo: 149.923
+type: audio_features
+id: 78W4mTLIh4qoLu92W4IQhO
+uri: spotify:track:78W4mTLIh4qoLu92W4IQhO
+track_href: https://api.spotify.com/v1/tracks/78W4mTLIh4qoLu92W4IQhO
+analysis_url: https://api.spotify.com/v1/audio-analysis/78W4mTLIh4qoLu92W4IQhO
+duration_ms: 288200
+time_signature: 4
+
+-- 歌詞 --
+歌詞が見つかりませんでした。
+
+-- アーティストの詳細情報 --
+アーティスト名: Mrs. GREEN APPLE
+フォロワー数: 3919952
+人気度: 77
+ジャンル: anime rock, j-pop, j-rock
+外部URL: https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5eb968120b0312a7893ec391560
+
+-- アーティストの人気曲 --
+1. ライラック - ライラック
+2. ケセラセラ - ANTENNA
+3. インフェルノ - Attitude
+4. 青と夏 - Attitude
+5. ダンスホール - Inferno & More Hits
+6. Magic - ANTENNA
+7. Dear - Dear
+8. ロマンチシズム - Attitude
+9. Soranji - ANTENNA
+10. コロンブス - コロンブス

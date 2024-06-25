@@ -1,0 +1,78 @@
+曲名: Make It High
+アーティスト: Castion, Mairee
+曲のジャンル: なし
+アーティストのジャンル: big room, future bounce, future house
+アルバム: Make It High
+リリース年: 2022-08-05
+再生時間: 203秒
+人気度: 26
+アルバムの種類: single
+コピーライト: 2023 Bass House Music
+外部URL: https://open.spotify.com/track/2Zw2i5RaHz0wbdhweE4BSv
+プレビューURL: https://p.scdn.co/mp3-preview/d2ae8d195872473ea1777b03e94874999c1596f4?cid=801c2d22bb02478886affc4ea38f0e45
+対応市場: AR, AU, AT, BE, BO, BR, BG, CA, CL, CO, CR, CY, CZ, DK, DO, DE, EC, EE, SV, FI, FR, GR, GT, HN, HK, HU, IS, IE, IT, LV, LT, LU, MY, MT, MX, NL, NZ, NI, NO, PA, PY, PE, PH, PL, PT, SG, SK, ES, SE, CH, TW, TR, UY, US, GB, AD, LI, MC, ID, JP, TH, VN, RO, IL, ZA, SA, AE, BH, QA, OM, KW, EG, MA, DZ, TN, LB, JO, PS, IN, BY, KZ, MD, UA, AL, BA, HR, ME, MK, RS, SI, KR, BD, PK, LK, GH, KE, NG, TZ, UG, AG, AM, BS, BB, BZ, BT, BW, BF, CV, CW, DM, FJ, GM, GE, GD, GW, GY, HT, JM, KI, LS, LR, MW, MV, ML, MH, FM, NA, NR, NE, PW, PG, PR, WS, SM, ST, SN, SC, SL, SB, KN, LC, VC, SR, TL, TO, TT, TV, VU, AZ, BN, BI, KH, CM, TD, KM, GQ, SZ, GA, GN, KG, LA, MO, MR, MN, NP, RW, TG, UZ, ZW, BJ, MG, MU, MZ, AO, CI, DJ, ZM, CD, CG, IQ, LY, TJ, VE, ET, XK
+
+-- 曲の特徴量 --
+danceability: 0.721
+energy: 0.861
+key: 6
+loudness: -6.444
+mode: 0
+speechiness: 0.0436
+acousticness: 0.00948
+instrumentalness: 0.000641
+liveness: 0.0444
+valence: 0.789
+tempo: 126.072
+type: audio_features
+id: 2Zw2i5RaHz0wbdhweE4BSv
+uri: spotify:track:2Zw2i5RaHz0wbdhweE4BSv
+track_href: https://api.spotify.com/v1/tracks/2Zw2i5RaHz0wbdhweE4BSv
+analysis_url: https://api.spotify.com/v1/audio-analysis/2Zw2i5RaHz0wbdhweE4BSv
+duration_ms: 203036
+time_signature: 3
+
+-- 歌詞 --
+歌詞が見つかりませんでした。
+
+-- アーティストの詳細情報 --
+アーティスト名: Castion
+フォロワー数: 19565
+人気度: 40
+ジャンル: big room, future bounce, future house
+外部URL: https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5eb165ffdafc72eb3eba6cd423d
+
+-- アーティストの人気曲 --
+1. PYRO - PYRO
+2. El Amor - Radio Edit - El Amor
+3. PYRO - Extended Mix - PYRO
+4. Evolution - Evolution
+5. Cuerpo Brutal - Cuerpo Brutal
+6. Make It High - Make It High
+7. Loose & Dance - Higher Place - Loose & Dance
+8. Prophecy - Prophecy
+9. Euphoria - Euphoria
+10. Breathin' - Breathin'
+
+-- 関連アーティスト --
+1. Chester Young
+2. Mason Flint
+3. Twolate
+4. LALZIN
+5. Jack & James
+6. Mo Falk
+7. Tommy Jayden
+8. Eloquin
+9. CHAAP
+10. Siks
+11. B00ST
+12. RudeLies
+13. WeDamnz
+14. Robbie Mendez
+15. FÄT TONY
+16. Tom Enzy
+17. Honey & Badger
+18. Jasted
+19. MBP
+20. Siik

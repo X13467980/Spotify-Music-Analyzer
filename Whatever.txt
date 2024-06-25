@@ -1,0 +1,78 @@
+曲名: Whatever
+アーティスト: Kygo, Ava Max
+曲のジャンル: なし
+アーティストのジャンル: edm, pop, pop dance, tropical house
+アルバム: Whatever
+リリース年: 2024-01-19
+再生時間: 178秒
+人気度: 84
+アルバムの種類: single
+コピーライト: (P) 2023 Kygo, under exclusive license to RCA Records, a division of Sony Music Entertainment
+外部URL: https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs
+プレビューURL: https://p.scdn.co/mp3-preview/03bbf447d8f0101cff90c78b3ab0c4757c3bf27b?cid=801c2d22bb02478886affc4ea38f0e45
+対応市場: AR, AU, AT, BE, BO, BR, BG, CA, CL, CO, CR, CY, CZ, DK, DO, DE, EC, EE, SV, FI, FR, GR, GT, HN, HK, HU, IS, IE, IT, LV, LT, LU, MY, MT, MX, NL, NZ, NI, NO, PA, PY, PE, PH, PL, PT, SG, SK, ES, SE, CH, TW, TR, UY, US, GB, AD, LI, MC, ID, JP, TH, VN, RO, IL, ZA, SA, AE, BH, QA, OM, KW, EG, MA, DZ, TN, LB, JO, PS, IN, BY, KZ, MD, UA, AL, BA, HR, ME, MK, RS, SI, BD, PK, LK, GH, KE, NG, TZ, UG, AG, AM, BS, BB, BZ, BT, BW, BF, CV, CW, DM, FJ, GM, GE, GD, GW, GY, HT, JM, KI, LS, LR, MW, MV, ML, MH, FM, NA, NR, NE, PW, PG, PR, WS, SM, ST, SN, SC, SL, SB, KN, LC, VC, SR, TL, TO, TT, TV, VU, AZ, BN, BI, KH, CM, TD, KM, GQ, SZ, GA, GN, KG, LA, MO, MR, MN, NP, RW, TG, UZ, ZW, BJ, MG, MU, MZ, AO, CI, DJ, ZM, CD, CG, IQ, LY, TJ, VE, ET, XK
+
+-- 曲の特徴量 --
+danceability: 0.58
+energy: 0.777
+key: 3
+loudness: -5.69
+mode: 1
+speechiness: 0.0655
+acousticness: 0.104
+instrumentalness: 0
+liveness: 0.342
+valence: 0.589
+tempo: 108.005
+type: audio_features
+id: 0LMwmV37RCmBO2so0szAFs
+uri: spotify:track:0LMwmV37RCmBO2so0szAFs
+track_href: https://api.spotify.com/v1/tracks/0LMwmV37RCmBO2so0szAFs
+analysis_url: https://api.spotify.com/v1/audio-analysis/0LMwmV37RCmBO2so0szAFs
+duration_ms: 178273
+time_signature: 4
+
+-- 歌詞 --
+歌詞が見つかりませんでした。
+
+-- アーティストの詳細情報 --
+アーティスト名: Kygo
+フォロワー数: 8365283
+人気度: 80
+ジャンル: edm, pop, pop dance, tropical house
+外部URL: https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5ebe5ea1aa1404629c12ad86658
+
+-- アーティストの人気曲 --
+1. Whatever - KYGO
+2. For Life (feat. Nile Rodgers) - KYGO
+3. Higher Love - Golden Hour
+4. It Ain’t Me (with Selena Gomez) - It Ain't Me
+5. Firestone - Cloud Nine
+6. Stole the Show - Cloud Nine
+7. Without You (with HAYLA) - KYGO
+8. Me Before You - KYGO
+9. Born To Be Yours - Born To Be Yours
+10. Lose Somebody - Golden Hour
+
+-- 関連アーティスト --
+1. Lost Frequencies
+2. Alesso
+3. Jonas Blue
+4. Galantis
+5. Robin Schulz
+6. Axwell /\ Ingrosso
+7. Zedd
+8. Sigala
+9. Cheat Codes
+10. Martin Garrix
+11. Sam Feldt
+12. AFROJACK
+13. R3HAB
+14. Gryffin
+15. Major Lazer
+16. Felix Jaehn
+17. Calvin Harris
+18. Nicky Romero
+19. Hardwell
+20. Don Diablo

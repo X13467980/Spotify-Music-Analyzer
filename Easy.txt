@@ -1,0 +1,56 @@
+曲名: Easy
+アーティスト: Nicky Romero, NIIKO X SWAE
+曲のジャンル: なし
+アーティストのジャンル: big room, dutch edm, dutch house, edm, electro house, pop dance, progressive electro house
+アルバム: Easy
+リリース年: 2022-07-01
+再生時間: 149秒
+人気度: 34
+アルバムの種類: single
+コピーライト: 2022 Protocol Recordings BV
+外部URL: https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk
+プレビューURL: https://p.scdn.co/mp3-preview/8018d5354e6a08a97fb7a98299e180bb1c22f7c8?cid=801c2d22bb02478886affc4ea38f0e45
+対応市場: AR, AU, AT, BE, BO, BR, BG, CA, CL, CO, CR, CY, CZ, DK, DO, DE, EC, EE, SV, FI, FR, GR, GT, HN, HK, HU, IS, IE, IT, LV, LT, LU, MY, MT, MX, NL, NZ, NI, NO, PA, PY, PE, PH, PL, PT, SG, SK, ES, SE, CH, TW, TR, UY, US, GB, AD, LI, MC, ID, TH, VN, RO, IL, ZA, SA, AE, BH, QA, OM, KW, EG, MA, DZ, TN, LB, JO, PS, IN, BY, KZ, MD, UA, AL, BA, HR, ME, MK, RS, SI, KR, BD, PK, LK, GH, KE, NG, TZ, UG, AG, AM, BS, BB, BZ, BT, BW, BF, CV, CW, DM, FJ, GM, GE, GD, GW, GY, HT, JM, KI, LS, LR, MW, MV, ML, MH, FM, NA, NR, NE, PW, PG, PR, WS, SM, ST, SN, SC, SL, SB, KN, LC, VC, SR, TL, TO, TT, TV, VU, AZ, BN, BI, KH, CM, TD, KM, GQ, SZ, GA, GN, KG, LA, MO, MR, MN, NP, RW, TG, UZ, ZW, BJ, MG, MU, MZ, AO, CI, DJ, ZM, CD, CG, IQ, LY, TJ, VE, ET, XK
+
+-- 曲の特徴量 --
+danceability: 0.689
+energy: 0.822
+key: 0
+loudness: -6.678
+mode: 0
+speechiness: 0.043
+acousticness: 0.00677
+instrumentalness: 0.000134
+liveness: 0.121
+valence: 0.673
+tempo: 123.984
+type: audio_features
+id: 4VVzgTike7FW8OiUIDN7hk
+uri: spotify:track:4VVzgTike7FW8OiUIDN7hk
+track_href: https://api.spotify.com/v1/tracks/4VVzgTike7FW8OiUIDN7hk
+analysis_url: https://api.spotify.com/v1/audio-analysis/4VVzgTike7FW8OiUIDN7hk
+duration_ms: 149516
+time_signature: 4
+
+-- 歌詞 --
+歌詞が見つかりませんでした。
+
+-- アーティストの詳細情報 --
+アーティスト名: Nicky Romero
+フォロワー数: 2179592
+人気度: 60
+ジャンル: big room, dutch edm, dutch house, edm, electro house, pop dance, progressive electro house
+外部URL: https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5ebf52dbc272680ae6386fa1630
+
+-- アーティストの人気曲 --
+1. I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit - I Could Be The One [Avicii vs Nicky Romero]
+2. All You Need Is Love - All You Need Is Love
+3. Lights Up - Dimitri Vegas & Like Mike Edit - Lights Up (Dimitri Vegas & Like Mike Edit)
+4. I Wanna Dance - I Wanna Dance
+5. Toulouse - Bobby Anthony Vocal Mix - Toulouse (Bobby Anthony Vocal Mix)
+6. Stargazing - Stargazing
+7. Bad Boy - Bad Boy
+8. Like Home - Radio Edit - Like Home
+9. In My Head - In My Head
+10. Lights Up - Extended Dimitri Vegas & Like Mike Edit - Lights Up (Dimitri Vegas & Like Mike Edit)
