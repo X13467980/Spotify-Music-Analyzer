@@ -1,0 +1,78 @@
+曲名: Anthem
+アーティスト: Diplo, Sharam, Pony
+アルバム: Anthem
+リリース年: 2024-03-01
+再生時間: 206秒
+人気度: 42
+アルバムの種類: single
+アルバムのトラック数: 1
+コピーライト: 2024 Higher Ground
+外部URL: https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia
+プレビューURL: https://p.scdn.co/mp3-preview/5becf4b3e27473c73dd78b89a47086f882464bb9?cid=e8af0f9f75b34102bd425b84704d5722
+ジャンル: ジャンル情報なし
+
+-- 曲の特徴量 --
+danceability: 0.712
+energy: 0.917
+key: 0
+loudness: -5.725
+mode: 1
+speechiness: 0.0402
+acousticness: 0.00094
+instrumentalness: 0.643
+liveness: 0.0946
+valence: 0.816
+tempo: 122.0
+type: audio_features
+id: 3JdZapCja0ufmNY9Vqi1ia
+uri: spotify:track:3JdZapCja0ufmNY9Vqi1ia
+track_href: https://api.spotify.com/v1/tracks/3JdZapCja0ufmNY9Vqi1ia
+analysis_url: https://api.spotify.com/v1/audio-analysis/3JdZapCja0ufmNY9Vqi1ia
+duration_ms: 206964
+time_signature: 4
+テンポ (BPM): 122.0
+キー: 0
+モード: メジャー
+タイムシグネチャー: 4
+
+-- アーティストの詳細情報 --
+アーティスト名: Diplo
+フォロワー数: 2652186
+人気度: 78
+ジャンル: dance pop, edm, electro house, moombahton, pop dance
+外部URL: https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5ebdf01727aa674ddefa777797a
+
+-- アーティストの人気曲 --
+1. Heartless (feat. Morgan Wallen) - Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil
+2. Genius (feat. Sia, Diplo, and Labrinth) - LABRINTH, SIA & DIPLO PRESENT... LSD
+3. Where Are Ü Now (with Justin Bieber) - Skrillex and Diplo present Jack Ü
+4. Heartbroken (feat. Jessie Murph & Polo G) - Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant
+5. Que Calor - Music Is The Weapon (Reloaded)
+6. Stay High - Stay High
+7. Wish (feat. Trippie Redd) - Trippie Mix - LIFE'S A TRIP
+8. Don't Forget My Love - Diplo
+9. Midnight Ride - Stampede
+10. Thunderclouds (feat. Sia, Diplo, and Labrinth) - LABRINTH, SIA & DIPLO PRESENT... LSD
+
+-- 関連アーティスト --
+Jack Ü (1080185フォロワー)
+Dillon Francis (1140843フォロワー)
+Major Lazer (6175537フォロワー)
+Good Times Ahead (290699フォロワー)
+Flosstradamus (283686フォロワー)
+Yellow Claw (1027981フォロワー)
+Don Diablo (1800891フォロワー)
+Steve Aoki (3774895フォロワー)
+DVBBS (1060298フォロワー)
+Galantis (3371430フォロワー)
+Deorro (1256048フォロワー)
+Alesso (3920791フォロワー)
+AFROJACK (3920041フォロワー)
+RL Grime (426444フォロワー)
+R3HAB (2544808フォロワー)
+Kaskade (949509フォロワー)
+Jauz (388730フォロワー)
+NGHTMRE (466586フォロワー)
+Nicky Romero (2191361フォロワー)
+Zedd (5941966フォロワー)

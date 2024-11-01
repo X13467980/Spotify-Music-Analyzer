@@ -1,0 +1,78 @@
+曲名: Burning
+アーティスト: Seth Hills, Levex
+アルバム: Burning
+リリース年: 2022-12-02
+再生時間: 155秒
+人気度: 40
+アルバムの種類: single
+アルバムのトラック数: 1
+コピーライト: 2022 STMPD RCRDS B.V.
+外部URL: https://open.spotify.com/track/3YGRkFtSMb8Q6H4mA3lcwQ
+プレビューURL: https://p.scdn.co/mp3-preview/e7e5e41f13ac9f80b9db81e17368c6aa91fd4e7e?cid=e8af0f9f75b34102bd425b84704d5722
+ジャンル: ジャンル情報なし
+
+-- 曲の特徴量 --
+danceability: 0.616
+energy: 0.753
+key: 1
+loudness: -7.665
+mode: 1
+speechiness: 0.0363
+acousticness: 0.0152
+instrumentalness: 0.319
+liveness: 0.194
+valence: 0.0643
+tempo: 127.999
+type: audio_features
+id: 3YGRkFtSMb8Q6H4mA3lcwQ
+uri: spotify:track:3YGRkFtSMb8Q6H4mA3lcwQ
+track_href: https://api.spotify.com/v1/tracks/3YGRkFtSMb8Q6H4mA3lcwQ
+analysis_url: https://api.spotify.com/v1/audio-analysis/3YGRkFtSMb8Q6H4mA3lcwQ
+duration_ms: 155625
+time_signature: 4
+テンポ (BPM): 127.999
+キー: 1
+モード: メジャー
+タイムシグネチャー: 4
+
+-- アーティストの詳細情報 --
+アーティスト名: Seth Hills
+フォロワー数: 37401
+人気度: 48
+ジャンル: sky room
+外部URL: https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5eb2b1ecd1a3570edd4c229fdab
+
+-- アーティストの人気曲 --
+1. Biochemical - Biochemical
+2. BOTH - David Guetta & Seth Hills Remix - BOTH (David Guetta & Seth Hills Remix)
+3. When We Were Young (The Logical Song) - Seth Hills Remix - When We Were Young (The Logical Song) [Seth Hills Remix]
+4. Burning - Burning
+5. LAST OF US (feat. Rita Ora) (Seth Hills Remix) - LAST OF US (feat. Rita Ora) (Remixes)
+6. Calling Out - Calling Out
+7. When We Were Young (The Logical Song) - Seth Hills Remix Extended - When We Were Young (The Logical Song) [Seth Hills Remix]
+8. The Middle - The Middle
+9. Out Of Control - Out Of Control
+10. Eclipse - Eclipse
+
+-- 関連アーティスト --
+Crime Zcene (6413フォロワー)
+Vluarr (13305フォロワー)
+Blinders (43587フォロワー)
+Aspyer (11406フォロワー)
+SWACQ (22314フォロワー)
+AYOR (7512フォロワー)
+LOOPERS (56865フォロワー)
+TV Noise (62235フォロワー)
+Mo Falk (13412フォロワー)
+WILHELM (1898フォロワー)
+Citadelle (5795フォロワー)
+Eleganto (10365フォロワー)
+Merow (3871フォロワー)
+Ytram (20290フォロワー)
+Julian Jordan (163791フォロワー)
+Todd Helder (20765フォロワー)
+Justin Mylo (85525フォロワー)
+NUZB (17028フォロワー)
+Mesto (124653フォロワー)
+Conor Ross (10072フォロワー)

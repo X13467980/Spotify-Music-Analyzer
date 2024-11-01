@@ -1,0 +1,78 @@
+曲名: 400
+アーティスト: Chris Lake
+アルバム: 400
+リリース年: 2022-03-25
+再生時間: 205秒
+人気度: 37
+アルバムの種類: single
+アルバムのトラック数: 1
+コピーライト: © 2022 Black Book Records, LLC, under exclusive license to UMG Recordings, Inc.
+外部URL: https://open.spotify.com/track/4tvlhGkTprgA9dY8gfQISz
+プレビューURL: None
+ジャンル: ジャンル情報なし
+
+-- 曲の特徴量 --
+danceability: 0.834
+energy: 0.792
+key: 4
+loudness: -4.67
+mode: 0
+speechiness: 0.165
+acousticness: 0.0348
+instrumentalness: 0.00112
+liveness: 0.124
+valence: 0.0555
+tempo: 124.965
+type: audio_features
+id: 4tvlhGkTprgA9dY8gfQISz
+uri: spotify:track:4tvlhGkTprgA9dY8gfQISz
+track_href: https://api.spotify.com/v1/tracks/4tvlhGkTprgA9dY8gfQISz
+analysis_url: https://api.spotify.com/v1/audio-analysis/4tvlhGkTprgA9dY8gfQISz
+duration_ms: 205466
+time_signature: 4
+テンポ (BPM): 124.965
+キー: 4
+モード: マイナー
+タイムシグネチャー: 4
+
+-- アーティストの詳細情報 --
+アーティスト名: Chris Lake
+フォロワー数: 342478
+人気度: 70
+ジャンル: bass house, edm, electro house, house, melbourne bounce, pop dance, progressive house, tech house, uk dance
+外部URL: https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5eb3c4c752f83e79a2f4f84341b
+
+-- アーティストの人気曲 --
+1. Somebody (2024) - Somebody (2024)
+2. Beggin' - Beggin'
+3. Summertime Blues (feat. Nathan Nicholson) - Summertime Blues (feat. Nathan Nicholson)
+4. In The Yuma (feat. Aatig) - In The Yuma (feat. Aatig)
+5. Turn off the Lights - Turn off the Lights
+6. More Baby - More Baby
+7. Turn off the Lights - Cages Remix - Turn off the Lights
+8. Delirious (Boneless) (feat. Kid Ink) - Neon Future I
+9. Boneless - Boneless
+10. In The Yuma (Cloonee's At The Sahara Remix) - In The Yuma (Cloonee's At The Sahara Remix)
+
+-- 関連アーティスト --
+Anti Up (38092フォロワー)
+Chris Lorenzo (120197フォロワー)
+Noizu (78748フォロワー)
+Sante Sansone (10723フォロワー)
+Wax Motif (110994フォロワー)
+Dombresky (118370フォロワー)
+Matroda (130925フォロワー)
+Walker & Royce (68876フォロワー)
+SIDEPIECE (84561フォロワー)
+AC Slater (112968フォロワー)
+Mau P (114069フォロワー)
+Aatig (5228フォロワー)
+Dom Dolla (430406フォロワー)
+Biscits (76006フォロワー)
+John Summit (351085フォロワー)
+Odd Mob (78376フォロワー)
+Malaa (248612フォロワー)
+J. Worra (41853フォロワー)
+FISHER (977900フォロワー)
+Tchami (412991フォロワー)

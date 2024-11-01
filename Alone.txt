@@ -1,0 +1,78 @@
+曲名: Alone
+アーティスト: AFROJACK, Mike Williams
+アルバム: Alone
+リリース年: 2023-03-31
+再生時間: 251秒
+人気度: 41
+アルバムの種類: single
+アルバムのトラック数: 1
+コピーライト: © 2023 Wall Recordings, distributed by UM_ID, a division of Universal International Music B.V.
+外部URL: https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu
+プレビューURL: None
+ジャンル: ジャンル情報なし
+
+-- 曲の特徴量 --
+danceability: 0.597
+energy: 0.957
+key: 1
+loudness: -4.937
+mode: 1
+speechiness: 0.0863
+acousticness: 0.00614
+instrumentalness: 0.154
+liveness: 0.266
+valence: 0.204
+tempo: 134.989
+type: audio_features
+id: 7vSx1uzjLF2elseUEFDDgu
+uri: spotify:track:7vSx1uzjLF2elseUEFDDgu
+track_href: https://api.spotify.com/v1/tracks/7vSx1uzjLF2elseUEFDDgu
+analysis_url: https://api.spotify.com/v1/audio-analysis/7vSx1uzjLF2elseUEFDDgu
+duration_ms: 251934
+time_signature: 4
+テンポ (BPM): 134.989
+キー: 1
+モード: メジャー
+タイムシグネチャー: 4
+
+-- アーティストの詳細情報 --
+アーティスト名: AFROJACK
+フォロワー数: 3920041
+人気度: 74
+ジャンル: big room, dance pop, dutch house, edm, electro house, pop dance, progressive electro house
+外部URL: https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5eb78484e23002e1607039af9b9
+
+-- アーティストの人気曲 --
+1. Give Me Everything (feat. Nayer) - Planet Pit (Deluxe Version)
+2. Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Afrojack Remix - Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)
+3. Raving - Raving
+4. FVCK - PERO NO TE ENAMORES
+5. 2 The Moon - 2 The Moon
+6. Maldito Alcohol (Pitbull vs. Afrojack) - I Am Armando - Armando Reloaded
+7. Ten Feet Tall - Forget The World (Deluxe)
+8. Take Over Control (Dutch Edit) [feat. Eva Simons] - Take over Control (feat. Eva Simons)
+9. Sad (feat. Afrojack) - Sad (feat. Afrojack)
+10. Anywhere With You - Anywhere With You
+
+-- 関連アーティスト --
+Nicky Romero (2191361フォロワー)
+Sebastian Ingrosso (968316フォロワー)
+Hardwell (3650362フォロワー)
+Bassjackers (749469フォロワー)
+Alesso (3920791フォロワー)
+Dimitri Vangelis & Wyman (515915フォロワー)
+Axwell (1504852フォロワー)
+NERVO (744092フォロワー)
+Quintino (623438フォロワー)
+Axwell /\ Ingrosso (2460553フォロワー)
+Steve Angello (608331フォロワー)
+Firebeatz (523223フォロワー)
+DVBBS (1060298フォロワー)
+Don Diablo (1800891フォロワー)
+Blasterjaxx (783601フォロワー)
+Dimitri Vegas & Like Mike (3503350フォロワー)
+KSHMR (1771319フォロワー)
+Steve Aoki (3774895フォロワー)
+R3HAB (2544808フォロワー)
+Laidback Luke (389756フォロワー)

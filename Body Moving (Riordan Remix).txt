@@ -1,0 +1,78 @@
+曲名: Body Moving - Riordan Remix
+アーティスト: Eliza Rose, Calvin Harris, Riordan
+アルバム: Body Moving (Riordan Remix)
+リリース年: 2024-01-05
+再生時間: 186秒
+人気度: 43
+アルバムの種類: single
+アルバムのトラック数: 2
+コピーライト: (P) 2024 Ministry of Sound Recordings Limited
+外部URL: https://open.spotify.com/track/1j1gU6llk8Nqv3Kga9WBi7
+プレビューURL: https://p.scdn.co/mp3-preview/a10dc6a0dc138d970bd85b87bb0833ea6e192a01?cid=e8af0f9f75b34102bd425b84704d5722
+ジャンル: ジャンル情報なし
+
+-- 曲の特徴量 --
+danceability: 0.689
+energy: 0.825
+key: 10
+loudness: -7.432
+mode: 0
+speechiness: 0.0405
+acousticness: 0.108
+instrumentalness: 0.263
+liveness: 0.0657
+valence: 0.482
+tempo: 131.034
+type: audio_features
+id: 1j1gU6llk8Nqv3Kga9WBi7
+uri: spotify:track:1j1gU6llk8Nqv3Kga9WBi7
+track_href: https://api.spotify.com/v1/tracks/1j1gU6llk8Nqv3Kga9WBi7
+analysis_url: https://api.spotify.com/v1/audio-analysis/1j1gU6llk8Nqv3Kga9WBi7
+duration_ms: 186250
+time_signature: 4
+テンポ (BPM): 131.034
+キー: 10
+モード: マイナー
+タイムシグネチャー: 4
+
+-- アーティストの詳細情報 --
+アーティスト名: Eliza Rose
+フォロワー数: 64580
+人気度: 62
+ジャンル: house
+外部URL: https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5ebcb13249e18b9aefa4eadfb57
+
+-- アーティストの人気曲 --
+1. B.O.T.A. (Baddest Of Them All) - Edit - B.O.T.A. (Baddest Of Them All)
+2. Body Moving - 96 Months
+3. B.O.T.A. (Baddest Of Them All) - B.O.T.A. (Baddest Of Them All)
+4. Pleasure Peak - Pleasure Peak
+5. Better Love - Better Love
+6. Body Moving - Riordan Remix - Body Moving (Riordan Remix)
+7. Body Moving - Extended - Body Moving (Extended)
+8. Business As Usual (night shift mix) - Business As Usual
+9. Temptation - Shades of Red
+10. Body Moving - Club Mix - Body Moving (Club Mix)
+
+-- 関連アーティスト --
+Interplanetary Criminal (44774フォロワー)
+RoRo (4991フォロワー)
+Carla Monroe (6178フォロワー)
+LF SYSTEM (79584フォロワー)
+Clementine Douglas (21045フォロワー)
+Jazzy (71696フォロワー)
+The Blessed Madonna (92095フォロワー)
+Miggy Dela Rosa (12957フォロワー)
+Kenny Dope (30510フォロワー)
+Alika (6885フォロワー)
+Aatig (5258フォロワー)
+Tom Santa (15952フォロワー)
+Sante Sansone (10758フォロワー)
+D.O.D (86876フォロワー)
+cassö (67484フォロワー)
+Lewis Thompson (9532フォロワー)
+Nathan Dawe (126442フォロワー)
+Hannah Boleyn (6144フォロワー)
+Hannah Laing (81227フォロワー)
+Aluna (79318フォロワー)

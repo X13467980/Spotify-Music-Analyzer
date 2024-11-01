@@ -1,0 +1,78 @@
+曲名: BEATS FOR THE UNDERGROUND
+アーティスト: Mau P
+アルバム: BEATS FOR THE UNDERGROUND
+リリース年: 2024-01-26
+再生時間: 214秒
+人気度: 60
+アルバムの種類: single
+アルバムのトラック数: 1
+コピーライト: (C) 2024 Repopulate Mars
+外部URL: https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp
+プレビューURL: https://p.scdn.co/mp3-preview/68d6055f261eccba4a87059be70816a2b99c46a8?cid=e8af0f9f75b34102bd425b84704d5722
+ジャンル: ジャンル情報なし
+
+-- 曲の特徴量 --
+danceability: 0.746
+energy: 0.978
+key: 10
+loudness: -4.879
+mode: 0
+speechiness: 0.0644
+acousticness: 0.0211
+instrumentalness: 0.00939
+liveness: 0.112
+valence: 0.659
+tempo: 125.99
+type: audio_features
+id: 62bjfb5YMLvZU44vfjJVxp
+uri: spotify:track:62bjfb5YMLvZU44vfjJVxp
+track_href: https://api.spotify.com/v1/tracks/62bjfb5YMLvZU44vfjJVxp
+analysis_url: https://api.spotify.com/v1/audio-analysis/62bjfb5YMLvZU44vfjJVxp
+duration_ms: 214528
+time_signature: 4
+テンポ (BPM): 125.99
+キー: 10
+モード: マイナー
+タイムシグネチャー: 4
+
+-- アーティストの詳細情報 --
+アーティスト名: Mau P
+フォロワー数: 114340
+人気度: 63
+ジャンル: tech house
+外部URL: https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5eb12baa0b37fe138e1bc53547d
+
+-- アーティストの人気曲 --
+1. Drugs From Amsterdam - Drugs From Amsterdam
+2. Gimme That Bounce - Gimme That Bounce
+3. On Again - On Again
+4. Metro - Metro
+5. Dress Code - Dress Code
+6. Miracle (with Ellie Goulding) - Mau P Remix - Miracle (with Ellie Goulding) [Mau P Remix]
+7. BEATS FOR THE UNDERGROUND - BEATS FOR THE UNDERGROUND
+8. Ray Of Solar - Mau P Remix - Ray Of Solar (Mau P Remix)
+9. Your Mind Is Dirty - Your Mind Is Dirty
+10. Drugs From Amsterdam - Reinier Zonneveld Remix - Drugs From Amsterdam (Reinier Zonneveld Remix)
+
+-- 関連アーティスト --
+Odd Mob (78531フォロワー)
+Westend (51169フォロワー)
+GENESI (11830フォロワー)
+Noizu (78875フォロワー)
+Matroda (131057フォロワー)
+SIDEPIECE (84703フォロワー)
+Aatig (5250フォロワー)
+Biscits (76120フォロワー)
+Eli Brown (126039フォロワー)
+Max Styler (34382フォロワー)
+Chris Lake (342834フォロワー)
+OMNOM (21016フォロワー)
+John Summit (352050フォロワー)
+Deeper Purpose (22817フォロワー)
+Chris Lorenzo (120297フォロワー)
+Wax Motif (111046フォロワー)
+Dom Dolla (431065フォロワー)
+J. Worra (41920フォロワー)
+ACRAZE (132302フォロワー)
+James Hype (379525フォロワー)

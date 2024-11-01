@@ -1,0 +1,77 @@
+曲名: Bad Bitches
+アーティスト: Toxic Joy, POLTERGST
+アルバム: Bad Bitches
+リリース年: 2023-01-10
+再生時間: 149秒
+人気度: 34
+アルバムの種類: single
+アルバムのトラック数: 1
+コピーライト: 2023 Bass House Music
+外部URL: https://open.spotify.com/track/6yVnFujo7RtxAFnpksovuA
+プレビューURL: https://p.scdn.co/mp3-preview/cdce9fb83fda4ee29a5ed084e5c271c17eac277f?cid=e8af0f9f75b34102bd425b84704d5722
+ジャンル: ジャンル情報なし
+
+-- 曲の特徴量 --
+danceability: 0.691
+energy: 0.906
+key: 8
+loudness: -6.952
+mode: 0
+speechiness: 0.0434
+acousticness: 0.00448
+instrumentalness: 0.546
+liveness: 0.348
+valence: 0.653
+tempo: 124.921
+type: audio_features
+id: 6yVnFujo7RtxAFnpksovuA
+uri: spotify:track:6yVnFujo7RtxAFnpksovuA
+track_href: https://api.spotify.com/v1/tracks/6yVnFujo7RtxAFnpksovuA
+analysis_url: https://api.spotify.com/v1/audio-analysis/6yVnFujo7RtxAFnpksovuA
+duration_ms: 149760
+time_signature: 4
+テンポ (BPM): 124.921
+キー: 8
+モード: マイナー
+タイムシグネチャー: 4
+
+-- アーティストの詳細情報 --
+アーティスト名: Toxic Joy
+フォロワー数: 5165
+人気度: 29
+ジャンル: future bounce
+外部URL: https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5ebf3530c5df935b74ca675e9ce
+
+-- アーティストの人気曲 --
+1. Bad Bitches - Bad Bitches
+2. Uh Huh - Uh Huh
+3. Juice - Juice
+4. Dance With Somebody - Dance With Somebody
+5. Skank - Skank
+6. The Warehouse - The Warehouse
+7. Drive - Drive
+8. Muchacho Guapo - Muchacho Guapo
+9. The Rave - The Rave
+10. Venice - Venice
+
+-- 関連アーティスト --
+Nora Rose (1127フォロワー)
+NEIV (272フォロワー)
+Ever No (23フォロワー)
+Yves Labordus (1767フォロワー)
+Eloy Hoose (2960フォロワー)
+Cosmic Kitsch (42フォロワー)
+Krishtoff (42フォロワー)
+JOXION (5219フォロワー)
+DEAN (5346フォロワー)
+Max Kilian (2063フォロワー)
+AKIAL (1868フォロワー)
+Mave (6324フォロワー)
+SRY (170フォロワー)
+Rebetz (224フォロワー)
+Sam Ourt (8471フォロワー)
+FITGIRL (50フォロワー)
+Jack Allenn (175フォロワー)
+Dalic (2170フォロワー)
+Ivan Jamile (4109フォロワー)

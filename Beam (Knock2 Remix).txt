@@ -1,0 +1,78 @@
+曲名: Beam (Knock2 Remix)
+アーティスト: ISOxo, Knock2
+アルバム: niteharts
+リリース年: 2022-10-28
+再生時間: 293秒
+人気度: 42
+アルバムの種類: album
+アルバムのトラック数: 10
+コピーライト: © 2022 Sable Valley Records
+外部URL: https://open.spotify.com/track/0WdxhkZSlDS4HLA3Ly2oQ8
+プレビューURL: https://p.scdn.co/mp3-preview/be9ae0ae0f3a98aab7d4fd0538df0b48e2d727f4?cid=e8af0f9f75b34102bd425b84704d5722
+ジャンル: ジャンル情報なし
+
+-- 曲の特徴量 --
+danceability: 0.675
+energy: 0.982
+key: 8
+loudness: -1.063
+mode: 0
+speechiness: 0.0952
+acousticness: 0.179
+instrumentalness: 0.565
+liveness: 0.0777
+valence: 0.0823
+tempo: 126.003
+type: audio_features
+id: 0WdxhkZSlDS4HLA3Ly2oQ8
+uri: spotify:track:0WdxhkZSlDS4HLA3Ly2oQ8
+track_href: https://api.spotify.com/v1/tracks/0WdxhkZSlDS4HLA3Ly2oQ8
+analysis_url: https://api.spotify.com/v1/audio-analysis/0WdxhkZSlDS4HLA3Ly2oQ8
+duration_ms: 293447
+time_signature: 4
+テンポ (BPM): 126.003
+キー: 8
+モード: マイナー
+タイムシグネチャー: 4
+
+-- アーティストの詳細情報 --
+アーティスト名: ISOxo
+フォロワー数: 59273
+人気度: 57
+ジャンル: 
+外部URL: https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5eb69dea5e9c932833f17b7ddce
+
+-- アーティストの人気曲 --
+1. SMACK TALK - SMACK TALK
+2. 4EVR - 4EVR
+3. THRASH (PARTY STARTER) - 4EVR
+4. how2fly - kidsgonemad!
+5. TROUBLE - 4EVR
+6. ENERGY - 4EVR
+7. SIGNAL - 4EVR
+8. Aarena (Knock2 Remix) - niteharts
+9. PAIN - 4EVR
+10. dontstopme! - kidsgonemad!
+
+-- 関連アーティスト --
+ISOKNOCK (7273フォロワー)
+Knock2 (103139フォロワー)
+FrostTop (7544フォロワー)
+Juelz (32722フォロワー)
+WINK (6415フォロワー)
+JAWNS (10700フォロワー)
+RemK (6069フォロワー)
+Control Freak (13753フォロワー)
+Ray Volpe (134822フォロワー)
+Space Laces (101574フォロワー)
+Wooli (119951フォロワー)
+Nitepunk (21551フォロワー)
+Wavedash (42622フォロワー)
+Moore Kismet (36101フォロワー)
+Effin (27476フォロワー)
+Blanke (59566フォロワー)
+ROSSY (8949フォロワー)
+HOL! (40531フォロワー)
+Jon Casey (14057フォロワー)
+Leotrix (29306フォロワー)

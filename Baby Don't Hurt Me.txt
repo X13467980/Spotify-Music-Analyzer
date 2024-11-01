@@ -1,0 +1,78 @@
+曲名: Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) - Sofi Tukker Remix
+アーティスト: David Guetta, Sofi Tukker, Anne-Marie, Coi Leray
+アルバム: Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) [Sofi Tukker Remix]
+リリース年: 2023-06-30
+再生時間: 188秒
+人気度: 50
+アルバムの種類: single
+アルバムのトラック数: 2
+コピーライト: Under license to Warner Music UK Limited, © 2023 What A DJ Ltd
+外部URL: https://open.spotify.com/track/5js0S06HeHofz7ZtlXV7In
+プレビューURL: https://p.scdn.co/mp3-preview/abbf2854c1dc430028398e6d481dda9a1f5dca06?cid=e8af0f9f75b34102bd425b84704d5722
+ジャンル: ジャンル情報なし
+
+-- 曲の特徴量 --
+danceability: 0.747
+energy: 0.712
+key: 9
+loudness: -7.044
+mode: 0
+speechiness: 0.045
+acousticness: 0.0753
+instrumentalness: 0.799
+liveness: 0.145
+valence: 0.38
+tempo: 127.993
+type: audio_features
+id: 5js0S06HeHofz7ZtlXV7In
+uri: spotify:track:5js0S06HeHofz7ZtlXV7In
+track_href: https://api.spotify.com/v1/tracks/5js0S06HeHofz7ZtlXV7In
+analysis_url: https://api.spotify.com/v1/audio-analysis/5js0S06HeHofz7ZtlXV7In
+duration_ms: 188467
+time_signature: 4
+テンポ (BPM): 127.993
+キー: 9
+モード: マイナー
+タイムシグネチャー: 4
+
+-- アーティストの詳細情報 --
+アーティスト名: David Guetta
+フォロワー数: 25925751
+人気度: 90
+ジャンル: big room, dance pop, edm, pop, pop dance
+外部URL: https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5ebf150017ca69c8793503c2d4f
+
+-- アーティストの人気曲 --
+1. I Don't Wanna Wait - I Don't Wanna Wait
+2. I'm Good (Blue) - I'm Good (Blue)
+3. Baby Don't Hurt Me - Baby Don't Hurt Me
+4. Titanium (feat. Sia) - Nothing but the Beat 2.0
+5. When We Were Young (The Logical Song) - When We Were Young (The Logical Song)
+6. Sexy Bitch (feat. Akon) - One Love (Deluxe)
+7. Be My Lover (feat. La Bouche) - 2023 Mix - Be My Lover (feat. La Bouche) [2023 Mix]
+8. Memories (feat. Kid Cudi) - One Love (Deluxe)
+9. Where Them Girls At (feat. Nicki Minaj & Flo Rida) - Nothing but the Beat 2.0
+10. Crazy What Love Can Do - Crazy What Love Can Do
+
+-- 関連アーティスト --
+Tiësto (7423861フォロワー)
+Calvin Harris (22743059フォロワー)
+Avicii (22951008フォロワー)
+Flo Rida (8597048フォロワー)
+Swedish House Mafia (3811764フォロワー)
+Alesso (3920791フォロワー)
+AFROJACK (3920041フォロワー)
+Martin Garrix (15061386フォロワー)
+Pitbull (10624070フォロワー)
+LMFAO (4175624フォロワー)
+Hardwell (3650362フォロワー)
+Armin van Buuren (4373836フォロワー)
+Robin Schulz (3107220フォロワー)
+Dimitri Vegas & Like Mike (3503350フォロワー)
+Axwell /\ Ingrosso (2460553フォロワー)
+R3HAB (2544808フォロワー)
+Kygo (8410062フォロワー)
+Galantis (3371430フォロワー)
+Major Lazer (6175537フォロワー)
+Steve Aoki (3774895フォロワー)

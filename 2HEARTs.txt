@@ -1,0 +1,78 @@
+曲名: 2HEARTs
+アーティスト: Knock2
+アルバム: 2HEARTs
+リリース年: 2021-08-06
+再生時間: 196秒
+人気度: 37
+アルバムの種類: single
+アルバムのトラック数: 5
+コピーライト: 2021 nolimit
+外部URL: https://open.spotify.com/track/6THfFUlHUQEQzDSTzUHRqo
+プレビューURL: https://p.scdn.co/mp3-preview/32807c6a81cfbd8d39364286db87add6848a4abb?cid=e8af0f9f75b34102bd425b84704d5722
+ジャンル: ジャンル情報なし
+
+-- 曲の特徴量 --
+danceability: 0.633
+energy: 0.985
+key: 2
+loudness: -2.445
+mode: 1
+speechiness: 0.126
+acousticness: 0.0227
+instrumentalness: 0.417
+liveness: 0.403
+valence: 0.247
+tempo: 125.834
+type: audio_features
+id: 6THfFUlHUQEQzDSTzUHRqo
+uri: spotify:track:6THfFUlHUQEQzDSTzUHRqo
+track_href: https://api.spotify.com/v1/tracks/6THfFUlHUQEQzDSTzUHRqo
+analysis_url: https://api.spotify.com/v1/audio-analysis/6THfFUlHUQEQzDSTzUHRqo
+duration_ms: 196429
+time_signature: 4
+テンポ (BPM): 125.834
+キー: 2
+モード: メジャー
+タイムシグネチャー: 4
+
+-- アーティストの詳細情報 --
+アーティスト名: Knock2
+フォロワー数: 102881
+人気度: 61
+ジャンル: bassline
+外部URL: https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5ebb060aaa179fef8d207577dfa
+
+-- アーティストの人気曲 --
+1. dashstar* - VIP - dashstar* (VIP)
+2. SMACK TALK - SMACK TALK
+3. dashstar* - dashstar*
+4. 4EVR - 4EVR
+5. Rock Ur World - ROOM202 EP
+6. THRASH (PARTY STARTER) - 4EVR
+7. One Chance - One Chance
+8. SAY - 2HEARTs
+9. Make U SWEAT! - Make U SWEAT!
+10. gettin' hott - gettin' hott
+
+-- 関連アーティスト --
+ISOxo (59096フォロワー)
+ISOKNOCK (7053フォロワー)
+Juelz (32682フォロワー)
+FrostTop (7537フォロワー)
+Ray Volpe (134614フォロワー)
+Wooli (119752フォロワー)
+Crankdat (148546フォロワー)
+Habstrakt (130201フォロワー)
+Space Laces (101515フォロワー)
+REAPER (58037フォロワー)
+JAWNS (10689フォロワー)
+WINK (6375フォロワー)
+HOL! (40465フォロワー)
+LINK (8414フォロワー)
+Heimanu (13831フォロワー)
+Eliminate (135318フォロワー)
+Subtronics (323637フォロワー)
+Blanke (59520フォロワー)
+longstoryshort (28975フォロワー)
+Kai Wachi (142958フォロワー)

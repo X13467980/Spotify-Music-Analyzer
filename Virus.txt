@@ -1,0 +1,78 @@
+曲名: Virus
+アーティスト: SUNGYOO, Advanced
+アルバム: Virus
+リリース年: 2024-06-07
+再生時間: 152秒
+人気度: 26
+アルバムの種類: single
+アルバムのトラック数: 1
+コピーライト: 2024 DRAGON X
+外部URL: https://open.spotify.com/track/6Z7ZmDWdnrMusQK4fuZggL
+プレビューURL: https://p.scdn.co/mp3-preview/e8e57ea5cba6250eda5eefc7c22e76a216a9c030?cid=e8af0f9f75b34102bd425b84704d5722
+ジャンル: ジャンル情報なし
+
+-- 曲の特徴量 --
+danceability: 0.651
+energy: 0.873
+key: 2
+loudness: -4.292
+mode: 1
+speechiness: 0.0402
+acousticness: 0.0142
+instrumentalness: 0.628
+liveness: 0.218
+valence: 0.196
+tempo: 125.961
+type: audio_features
+id: 6Z7ZmDWdnrMusQK4fuZggL
+uri: spotify:track:6Z7ZmDWdnrMusQK4fuZggL
+track_href: https://api.spotify.com/v1/tracks/6Z7ZmDWdnrMusQK4fuZggL
+analysis_url: https://api.spotify.com/v1/audio-analysis/6Z7ZmDWdnrMusQK4fuZggL
+duration_ms: 152381
+time_signature: 4
+テンポ (BPM): 125.961
+キー: 2
+モード: メジャー
+タイムシグネチャー: 4
+
+-- アーティストの詳細情報 --
+アーティスト名: SUNGYOO
+フォロワー数: 3007
+人気度: 25
+ジャンル: 
+外部URL: https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5ebfed6fd2a98b42b04dc875653
+
+-- アーティストの人気曲 --
+1. One More Night - SUNGYOO Remix - One More Night (SUNGYOO Remix)
+2. OLE - Radio Edit - OLE
+3. Hide & Seek - Hide & Seek
+4. Somehow - Somehow
+5. WITH U - BLUE MOON
+6. Virus - Virus
+7. Feel It - Feel It
+8. NO ONE - NO ONE
+9. Off Ways - Off Ways
+10. Somehow - Festival Mix - Somehow
+
+-- 関連アーティスト --
+PLAYMODE (809フォロワー)
+Noisy Choice (1893フォロワー)
+Rick Wonder (24587フォロワー)
+Noerio (11フォロワー)
+Spin Off (5397フォロワー)
+Arkins (3869フォロワー)
+Castle J (663フォロワー)
+Pure 100% (15825フォロワー)
+HANHEE (279フォロワー)
+Dïpdive (3228フォロワー)
+Pinkloud (5589フォロワー)
+jeonghyeon (20457フォロワー)
+JJONAZ (1751フォロワー)
+Jordan Dae (3054フォロワー)
+DUE (257フォロワー)
+OSUSHI-TABEZO (922フォロワー)
+CAVALLI (1586フォロワー)
+CREAM (137フォロワー)
+Silvertone (US) (1814フォロワー)
+Sielo (2258フォロワー)

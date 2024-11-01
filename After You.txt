@@ -1,0 +1,78 @@
+曲名: After You (feat. Calle Lehmann)
+アーティスト: Gryffin, Jason Ross, Calle Lehmann
+アルバム: After You (feat. Calle Lehmann)
+リリース年: 2021-10-27
+再生時間: 224秒
+人気度: 49
+アルバムの種類: single
+アルバムのトラック数: 1
+コピーライト: © 2021 Darkroom Records
+外部URL: https://open.spotify.com/track/6DiogHhtwkVgUHUDUJVuXV
+プレビューURL: None
+ジャンル: ジャンル情報なし
+
+-- 曲の特徴量 --
+danceability: 0.511
+energy: 0.804
+key: 4
+loudness: -3.808
+mode: 1
+speechiness: 0.0433
+acousticness: 0.0619
+instrumentalness: 0
+liveness: 0.0873
+valence: 0.484
+tempo: 145.055
+type: audio_features
+id: 6DiogHhtwkVgUHUDUJVuXV
+uri: spotify:track:6DiogHhtwkVgUHUDUJVuXV
+track_href: https://api.spotify.com/v1/tracks/6DiogHhtwkVgUHUDUJVuXV
+analysis_url: https://api.spotify.com/v1/audio-analysis/6DiogHhtwkVgUHUDUJVuXV
+duration_ms: 224570
+time_signature: 4
+テンポ (BPM): 145.055
+キー: 4
+モード: メジャー
+タイムシグネチャー: 4
+
+-- アーティストの詳細情報 --
+アーティスト名: Gryffin
+フォロワー数: 961883
+人気度: 68
+ジャンル: edm, pop dance
+外部URL: https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5ebc9c5133193049fdd76e42e44
+
+-- アーティストの人気曲 --
+1. Desire - Gryffin Remix - Desire (Gryffin Remix)
+2. Woke Up in Love - Thrill Of The Chase
+3. Tie Me Down (with Elley Duhé) - Gravity
+4. What Took You So Long - What Took You So Long
+5. THE REASON (feat. John Newman) - PULSE
+6. Feel Good (with Daya) - Feel Good (with Daya)
+7. Body Back (feat. Maia Wright) - Gravity
+8. All You Need To Know (feat. Calle Lehmann) - Gravity
+9. Nobody Compares To You (feat. Katie Pearlman) - Gravity
+10. LAST OF US (feat. Rita Ora) - PULSE
+
+-- 関連アーティスト --
+Said The Sky (285696フォロワー)
+William Black (111740フォロワー)
+Dabin (181827フォロワー)
+ILLENIUM (1521263フォロワー)
+Seven Lions (494574フォロワー)
+ARMNHMR (111426フォロワー)
+Lost Kings (391930フォロワー)
+Audien (191332フォロワー)
+NOTD (308401フォロワー)
+NURKO (96762フォロワー)
+Cash Cash (688178フォロワー)
+Jason Ross (61104フォロワー)
+Tritonal (231130フォロワー)
+SLANDER (516764フォロワー)
+Cheat Codes (2110800フォロワー)
+Hoang (29831フォロワー)
+3LAU (335774フォロワー)
+Trivecta (73866フォロワー)
+MitiS (152792フォロワー)
+SABAI (40490フォロワー)

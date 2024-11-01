@@ -1,0 +1,78 @@
+曲名: buttons! (with Knock2)
+アーティスト: Dillon Francis, Knock2
+アルバム: This Mixtape is Fire TOO
+リリース年: 2023-12-01
+再生時間: 239秒
+人気度: 46
+アルバムの種類: album
+アルバムのトラック数: 14
+コピーライト: © 2023 IDGAFOS, under exclusive license to UMG Recordings, Inc.
+外部URL: https://open.spotify.com/track/6lNYE1wSCTtBxFvcdUAymQ
+プレビューURL: None
+ジャンル: ジャンル情報なし
+
+-- 曲の特徴量 --
+danceability: 0.74
+energy: 0.955
+key: 11
+loudness: -3.956
+mode: 0
+speechiness: 0.0675
+acousticness: 0.00735
+instrumentalness: 0.76
+liveness: 0.328
+valence: 0.338
+tempo: 126.008
+type: audio_features
+id: 6lNYE1wSCTtBxFvcdUAymQ
+uri: spotify:track:6lNYE1wSCTtBxFvcdUAymQ
+track_href: https://api.spotify.com/v1/tracks/6lNYE1wSCTtBxFvcdUAymQ
+analysis_url: https://api.spotify.com/v1/audio-analysis/6lNYE1wSCTtBxFvcdUAymQ
+duration_ms: 239048
+time_signature: 4
+テンポ (BPM): 126.008
+キー: 11
+モード: マイナー
+タイムシグネチャー: 4
+
+-- アーティストの詳細情報 --
+アーティスト名: Dillon Francis
+フォロワー数: 1142555
+人気度: 62
+ジャンル: brostep, edm, electro house, moombahton, pop dance, progressive electro house, slap house
+外部URL: https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5eb7a10c0a271f96529bf28f97f
+
+-- アーティストの人気曲 --
+1. Pretty Low - Pretty Low
+2. Get Low - Money Sucks, Friends Rule
+3. Goodies - This Mixtape is Fire TOO
+4. Take Me Away - Take Me Away
+5. Don't Let Me Let Go (with ILLENIUM & Evan Giia) - This Mixtape is Fire TOO
+6. Catchy Song (feat. T-Pain & That Girl Lay Lay) - The LEGO Movie 2: The Second Part (Original Motion Picture Soundtrack)
+7. Lonely (Planet Earth) - Lonely (Planet Earth)
+8. Once Again - Once Again
+9. Move It - Move It
+10. I Like It - Dillon Francis Remix - I Like It
+
+-- 関連アーティスト --
+Flosstradamus (283688フォロワー)
+Good Times Ahead (290730フォロワー)
+Kill The Noise (416706フォロワー)
+Jauz (388766フォロワー)
+NGHTMRE (466652フォロワー)
+Valentino Khan (241377フォロワー)
+Jack Ü (1081518フォロワー)
+Bro Safari (153915フォロワー)
+Ookay (233968フォロワー)
+Party Favor (177519フォロワー)
+RL Grime (426561フォロワー)
+Zeds Dead (599761フォロワー)
+Diplo (2654690フォロワー)
+Zomboy (762374フォロワー)
+Boombox Cartel (217036フォロワー)
+Borgore (562639フォロワー)
+DVBBS (1061894フォロワー)
+Borgeous (559160フォロワー)
+Yellow Claw (1028155フォロワー)
+Flux Pavilion (709124フォロワー)

@@ -1,0 +1,78 @@
+曲名: BROOKLYN
+アーティスト: JOYRYDE
+アルバム: BRAVE
+リリース年: 2020-04-03
+再生時間: 282秒
+人気度: 30
+アルバムの種類: album
+アルバムのトラック数: 18
+コピーライト: 2020 HARD Recs
+外部URL: https://open.spotify.com/track/4gRaf8F3EnX9r3xMSSHC9Y
+プレビューURL: https://p.scdn.co/mp3-preview/701fca5b588107fbebb2da1178f97a6b11e390bb?cid=e8af0f9f75b34102bd425b84704d5722
+ジャンル: ジャンル情報なし
+
+-- 曲の特徴量 --
+danceability: 0.835
+energy: 0.866
+key: 7
+loudness: -3.638
+mode: 1
+speechiness: 0.214
+acousticness: 0.0236
+instrumentalness: 0.568
+liveness: 0.0896
+valence: 0.0432
+tempo: 125.007
+type: audio_features
+id: 4gRaf8F3EnX9r3xMSSHC9Y
+uri: spotify:track:4gRaf8F3EnX9r3xMSSHC9Y
+track_href: https://api.spotify.com/v1/tracks/4gRaf8F3EnX9r3xMSSHC9Y
+analysis_url: https://api.spotify.com/v1/audio-analysis/4gRaf8F3EnX9r3xMSSHC9Y
+duration_ms: 282302
+time_signature: 4
+テンポ (BPM): 125.007
+キー: 7
+モード: メジャー
+タイムシグネチャー: 4
+
+-- アーティストの詳細情報 --
+アーティスト名: JOYRYDE
+フォロワー数: 210902
+人気度: 47
+ジャンル: bass house, brostep, edm, electro house, electronic trap
+外部URL: https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5ebf14cf3e823e826e73f877667
+
+-- アーティストの人気曲 --
+1. DAMN - BRAVE
+2. ON FIRE - BRAVE
+3. AGEN WIDA - AGEN WIDA
+4. IM GONE - BRAVE
+5. FOCUS - BRAVE
+6. THE BOX - THE BOX
+7. SELECTA 19 - BRAVE
+8. WINDOWS FT. RICK RO$$ - WINDOWS FT. RICK RO$$
+9. SPEED TRAP - SPEED TRAP
+10. I WARE HOUSE - I WARE HOUSE
+
+-- 関連アーティスト --
+Habstrakt (130281フォロワー)
+Ephwurd (52957フォロワー)
+BROHUG (62105フォロワー)
+JVST SAY YES (22536フォロワー)
+Jauz (388766フォロワー)
+Ghastly (155661フォロワー)
+Moksi (112549フォロワー)
+Herobust (94036フォロワー)
+AC Slater (113071フォロワー)
+Boombox Cartel (217036フォロワー)
+Drezo (64590フォロワー)
+Valentino Khan (241377フォロワー)
+Malaa (248673フォロワー)
+Eptic (194222フォロワー)
+Sikdope (81435フォロワー)
+Tisoki (68652フォロワー)
+Space Laces (101606フォロワー)
+4B (78462フォロワー)
+QUIX (65621フォロワー)
+MUST DIE! (129354フォロワー)

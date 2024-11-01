@@ -1,0 +1,78 @@
+曲名: Back To You
+アーティスト: Nicky Romero
+アルバム: Back To You
+リリース年: 2021-02-26
+再生時間: 185秒
+人気度: 23
+アルバムの種類: single
+アルバムのトラック数: 2
+コピーライト: 2021 Protocol Recordings BV
+外部URL: https://open.spotify.com/track/1eZXJrEbdGSuST1f8NY5Qk
+プレビューURL: https://p.scdn.co/mp3-preview/b42926f02c170ab461b465764ce974f2d7ab930d?cid=e8af0f9f75b34102bd425b84704d5722
+ジャンル: ジャンル情報なし
+
+-- 曲の特徴量 --
+danceability: 0.652
+energy: 0.708
+key: 9
+loudness: -7.174
+mode: 1
+speechiness: 0.0347
+acousticness: 0.00604
+instrumentalness: 0
+liveness: 0.11
+valence: 0.313
+tempo: 125.027
+type: audio_features
+id: 1eZXJrEbdGSuST1f8NY5Qk
+uri: spotify:track:1eZXJrEbdGSuST1f8NY5Qk
+track_href: https://api.spotify.com/v1/tracks/1eZXJrEbdGSuST1f8NY5Qk
+analysis_url: https://api.spotify.com/v1/audio-analysis/1eZXJrEbdGSuST1f8NY5Qk
+duration_ms: 185812
+time_signature: 4
+テンポ (BPM): 125.027
+キー: 9
+モード: メジャー
+タイムシグネチャー: 4
+
+-- アーティストの詳細情報 --
+アーティスト名: Nicky Romero
+フォロワー数: 2191361
+人気度: 61
+ジャンル: big room, dutch edm, dutch house, edm, electro house, pop dance, progressive electro house
+外部URL: https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5ebf52dbc272680ae6386fa1630
+
+-- アーティストの人気曲 --
+1. I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit - I Could Be The One [Avicii vs Nicky Romero]
+2. All You Need Is Love - All You Need Is Love
+3. Love You for the Summer - Love You for the Summer
+4. Toulouse - Bobby Anthony Vocal Mix - Toulouse (Bobby Anthony Vocal Mix)
+5. Never Alone - Never Alone
+6. Lights Up - Dimitri Vegas & Like Mike Edit - Lights Up (Dimitri Vegas & Like Mike Edit)
+7. Toulouse - Miami 2012 (Mixed by MYNC & Nicky Romero)
+8. Fine Day - Fine Day
+9. Bass Down Low - Bass Down Low
+10. Like Home - Radio Edit - Like Home
+
+-- 関連アーティスト --
+Sebastian Ingrosso (968316フォロワー)
+Dimitri Vangelis & Wyman (515915フォロワー)
+NERVO (744092フォロワー)
+Steve Angello (608331フォロワー)
+Firebeatz (523223フォロワー)
+Quintino (623438フォロワー)
+Jay Hardway (420094フォロワー)
+Bassjackers (749469フォロワー)
+Axwell (1504852フォロワー)
+AFROJACK (3920041フォロワー)
+DubVision (319622フォロワー)
+Hardwell (3650362フォロワー)
+Sander van Doorn (358611フォロワー)
+DVBBS (1060298フォロワー)
+Blasterjaxx (783601フォロワー)
+Borgeous (559197フォロワー)
+Laidback Luke (389756フォロワー)
+Don Diablo (1800891フォロワー)
+Alesso (3920791フォロワー)
+Dyro (204330フォロワー)

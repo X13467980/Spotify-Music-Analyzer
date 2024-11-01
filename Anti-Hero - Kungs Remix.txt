@@ -1,0 +1,78 @@
+曲名: Anti-Hero - Kungs Remix
+アーティスト: Taylor Swift, Kungs
+アルバム: Anti-Hero (Remixes)
+リリース年: 2022-11-11
+再生時間: 194秒
+人気度: 59
+アルバムの種類: single
+アルバムのトラック数: 5
+コピーライト: © 2022 Taylor Swift
+外部URL: https://open.spotify.com/track/2oWpe2L8ypC080BxpDVuTY
+プレビューURL: None
+ジャンル: ジャンル情報なし
+
+-- 曲の特徴量 --
+danceability: 0.715
+energy: 0.921
+key: 11
+loudness: -5.372
+mode: 1
+speechiness: 0.0761
+acousticness: 0.024
+instrumentalness: 0.00156
+liveness: 0.34
+valence: 0.689
+tempo: 116.009
+type: audio_features
+id: 2oWpe2L8ypC080BxpDVuTY
+uri: spotify:track:2oWpe2L8ypC080BxpDVuTY
+track_href: https://api.spotify.com/v1/tracks/2oWpe2L8ypC080BxpDVuTY
+analysis_url: https://api.spotify.com/v1/audio-analysis/2oWpe2L8ypC080BxpDVuTY
+duration_ms: 194612
+time_signature: 4
+テンポ (BPM): 116.009
+キー: 11
+モード: メジャー
+タイムシグネチャー: 4
+
+-- アーティストの詳細情報 --
+アーティスト名: Taylor Swift
+フォロワー数: 118101181
+人気度: 100
+ジャンル: pop
+外部URL: https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02
+アーティスト画像: https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676
+
+-- アーティストの人気曲 --
+1. Cruel Summer - Lover
+2. Fortnight (feat. Post Malone) - THE TORTURED POETS DEPARTMENT
+3. I Can Do It With a Broken Heart - THE TORTURED POETS DEPARTMENT
+4. august - folklore
+5. Lover - Lover
+6. Down Bad - THE TORTURED POETS DEPARTMENT
+7. Guilty as Sin? - THE TORTURED POETS DEPARTMENT
+8. cardigan - folklore
+9. Anti-Hero - Midnights
+10. Who’s Afraid of Little Old Me? - THE TORTURED POETS DEPARTMENT
+
+-- 関連アーティスト --
+Selena Gomez (50632233フォロワー)
+Olivia Rodrigo (38483318フォロワー)
+Katy Perry (34061287フォロワー)
+Ariana Grande (98477680フォロワー)
+Harry Styles (32788724フォロワー)
+Camila Cabello (33647542フォロワー)
+One Direction (35918770フォロワー)
+Demi Lovato (26670472フォロワー)
+Sabrina Carpenter (11033677フォロワー)
+Meghan Trainor (15304421フォロワー)
+Miley Cyrus (24523136フォロワー)
+Shawn Mendes (43060392フォロワー)
+Dua Lipa (44276965フォロワー)
+Justin Bieber (76422687フォロワー)
+Billie Eilish (97442585フォロワー)
+Lana Del Rey (38148938フォロワー)
+Halsey (21668372フォロワー)
+Charlie Puth (23048860フォロワー)
+ZAYN (23149940フォロワー)
+Lady Gaga (30778533フォロワー)
