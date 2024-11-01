@@ -1,16 +1,10 @@
-import os
-from dotenv import load_dotenv
-from spotipy import Spotify
+import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 
-# .envファイルを読み込み
-load_dotenv()
-
-# Spotifyの認証情報を環境変数から取得
-client_id = os.getenv("SPOTIFY_CLIENT_ID")
-client_secret = os.getenv("SPOTIFY_CLIENT_SECRET")
-
-sp = Spotify(auth_manager=SpotifyClientCredentials(client_id=client_id, client_secret=client_secret))
+# Spotifyの認証情報を設定
+client_id = 'e8af0f9f75b34102bd425b84704d5722'
+client_secret = '3e61db7bc0eb49a2ba774ddfade07ff9'
+sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id=client_id, client_secret=client_secret))
 
 # ユーザーに曲名とアーティスト名を入力してもらう
 track_name = input("曲名を入力してください: ")
